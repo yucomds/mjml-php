@@ -1,10 +1,10 @@
 {
-    "name": "qferr/mjml-php",
+    "name": "yucomds/mjml-php",
     "type": "library",
     "authors": [
         {
-            "name": "Quentin",
-            "email": "qferrer@outook.com"
+            "name": "Yuri",
+            "email": "y.cozzolino@mdsnet.eu"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Qferrer\\" : "src/"
+            "yucomds\\" : "src/"
         }
     }
 }
