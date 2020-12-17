@@ -1,6 +1,6 @@
 <?php
 
-namespace Qferrer\Mjml\Renderer;
+namespace Yucomds\Mjml\Renderer;
 
 use GuzzleHttp\Client;
 
